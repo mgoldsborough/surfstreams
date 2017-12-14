@@ -33,6 +33,9 @@ app.controller('SurfController', ['$scope', '$http', function($scope, $http) {
     id: 4750,
     name: 'Pipeline, O\'ahu, HI'
   }, {
+    id: 4755,
+    name: 'Waimea Bay, HI'
+  }, {
     id: 4193,
     name: 'Morro, Beach, SF'
   }, {
